@@ -1,0 +1,17 @@
+#doce_col > div {
+  border: 2px blue solid;
+}
+
+#tres_col > div{
+  border: 2px blue solid;
+}
+
+.btn-custom {
+  color: blueviolet;
+  background-color: black;
+}
+
+.btn-custom:hover {
+  color: #000;
+  background-color: blueviolet;
+}
